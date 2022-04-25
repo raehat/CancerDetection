@@ -1,4 +1,4 @@
-# HAut - K!ode-a-thon - Sigmoids
+# HAut 
 A skin disease classification Android App integrated with TensorFlow Lite CNN model. <br>
 - YT Video Link - https://youtu.be/AywpniHHkow 
 - PPT Link - https://docs.google.com/presentation/d/1f2KsHHPzNQ4EWbhxK4AXtEhiBynJodBSxrFBUnSnml8/edit?usp=sharing
